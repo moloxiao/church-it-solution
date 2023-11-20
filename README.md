@@ -5,4 +5,4 @@ Topics :
 * [Manager Domain](domain/README.md)
 * [Website](website/README.md)
 * [Precedent Cases](precendcases/README.md)
-* 
+* [Collaboration Platforms](cp/README.md)
