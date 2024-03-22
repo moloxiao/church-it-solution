@@ -24,3 +24,6 @@ If your church primarily serves a local New Zealand community and you want to em
 However, if your church has a broader international reach or if you aim to attract a global audience, a .com domain might be more appropriate. The .com extension is widely recognized and accepted worldwide, making it ideal for organizations with an international presence.   
 On the other hand, if your church engages in commercial activities or wants to highlight its business aspect, such as online stores or fundraising efforts, then a .co.nz domain could be considered. This extension is commonly associated with commercial ventures in New Zealand. Ultimately, the choice between .co.nz, .nz, and .com domains depends on your church's specific goals, audience, and branding strategy.  
 
+### 2 What's mean "Sorry, xxx.xx is unavailable"  
+It indicates that the domain name "xxx.xx" has already been registered or reserved by someone else, making it currently unavailable for purchase or use. Therefore, it is necessary to change the name. For instance, if cornerstone.nz is already registered, cornerstone.org.nz might still be available, or you could choose something like xxxxxcornerstone.nz.
+
