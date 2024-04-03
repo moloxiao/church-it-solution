@@ -5,6 +5,8 @@ The domain registration industry has numerous service providers. Here are some o
 * [Namecheap](https://www.namecheap.com/)
 * [Cloudflare](https://cloudflare.com)
 
+[Compare Prices of All Top-Level Domains](https://tld-list.com/)
+
 If you don't have a specific preference, you might consider GoDaddy, which is currently the domain registrar with the most users.  
 You'll need to:
 
