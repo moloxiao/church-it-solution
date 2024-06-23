@@ -1,7 +1,8 @@
 # Church It Solution
 This project create for church IT solution.  
-The first step is to register a domain name, and you can start here : [Manager Domain](domain/README.md).
-You can also check out [implementation cases](ic/README.md)
+You can check out [implementation cases](ic/README.md) Get a clear sense of this process.  
+If you want to deploy it yourself, The first step is to register a domain name, and you can start here : [Manager Domain](domain/README.md).  
+
 
 
 Topics : 
