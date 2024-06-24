@@ -10,5 +10,5 @@ Topics :
 2. [Website](website/README.md)
 
 Reference
-* [Precedent Cases - TODO](precendcases/README.md)
+* [Precedent Cases](pc/README.md)
 * [Collaboration Platforms](cp/README.md)
