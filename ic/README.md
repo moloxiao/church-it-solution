@@ -16,7 +16,7 @@ You can now access your website, and we will start taking over the management fu
 | **google sheet**  | you & service provider |5~10min | |
 | **google slide** | you & service provider |5~10min | |
 
-## google sheet
+### Tip 1 - google sheet
 Here's the step-by-step guide in English on how to use Google Apps Script to share Google Sheets data in JSON format.   
 1. **Create a Google Apps Script Project**
 
@@ -46,4 +46,6 @@ Click Deploy.
 Authorize the script by following the prompts to allow necessary permissions.  
 After deployment, copy the web app URL provided.  
 
+### Tip 2 -  google calendar
   
+### Tip 3 - google slide
